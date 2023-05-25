@@ -1,0 +1,227 @@
+{
+    "results": [
+        {
+            "id" : 1,
+            "title" : "The Super Mario Bros. Movie",
+            "overview" : "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+            "voteAverage" : 7.7,
+            "genres": [
+                "Animation",
+                "Family",
+                "Adventure",
+                "Fantasy",
+                "Comedy"
+
+            ]
+        },
+        {
+            "id" : 2,
+            "title" : "Fast X",
+            "overview" : "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "voteAverage" : 6.9,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 3,
+            "title" : "Sisu",
+            "overview" : "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+            "voteAverage" : 7.5,
+            "genres": [
+                "Action",
+                "War"
+            ]
+        },
+        {
+            "id" : 4,
+            "title" : "John Wick: Chapter 4",
+            "overview" : "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "voteAverage" : 8.0,
+            "genres": [
+                "Action",
+                "Thriller",
+                "Crime"
+            ]
+        },
+        {
+            "id" : 5,
+            "title" : "Ant-Man and the Wasp: Quantumania",
+            "overview" : "Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible.",
+            "voteAverage" : 6.5,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Science",
+                "Fiction"
+            ]
+        },
+        {
+            "id" : 6,
+            "title" : "Evil Dead Rise",
+            "overview" : "Three siblings find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+            "voteAverage" : 7.1,
+            "genres": [
+                "Thriller",
+                "Horror"
+            ]
+        },
+        {
+            "id" : 7,
+            "title" : "The Mother",
+            "overview" : "A deadly female assassin comes out of hiding to protect the daughter that she gave up years before, while on the run from dangerous men.",
+            "voteAverage" : 6.8,
+            "genres": [
+                "Action",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 8,
+            "title" : "The Wandering Earth II",
+            "overview" : "A prequel to The Wandering Earth.",
+            "voteAverage" : 7.2,
+            "genres": [
+                "Science",
+                "Fiction",
+                "Action",
+                "Drama"
+            ]
+        },
+        {
+            "id" : 9,
+            "title" : "Guy Ritchie's The Covenant",
+            "overview" : "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+            "voteAverage" : 7.6,
+            "genres": [
+                "War",
+                "Action",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 10,
+            "title" : "Crater",
+            "overview" : "After the death of his father, a boy growing up on a lunar mining colony takes a trip to explore a legendary crater, along with his four best friends, prior to being permanently relocated to another planet.",
+            "voteAverage" : 6.8,
+            "genres": [
+                "Science",
+                "Fiction",
+                "Action",
+                "Adventure",
+                "Family"
+            ]
+        },
+        {
+            "id" : 11,
+            "title" : "Guardians of the Galaxy Vol. 3",
+            "overview" : "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "voteAverage" : 8.1,
+            "genres": [
+                "Science",
+                "Fiction",
+                "Adventure",
+                "Action"
+            ]
+        },
+        {
+            "id" : 12,
+            "title" : "Avatar: The Way of Water",
+            "overview" : "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+            "voteAverage" : 7.7,
+            "genres": [
+                "Science",
+                "Fiction",
+                "Adventure",
+                "Action"
+            ]
+        },
+        {
+            "id" : 13,
+            "title" : "Shazam! Fury of the Gods",
+            "overview" : "Billy Batson and his foster siblings, who transform into superheroes by saying \"Shazam!\", are forced to get back into action and fight the Daughters of Atlas, who they must stop from using a weapon that could destroy the world.",
+            "voteAverage" : 6.8,
+            "genres": [
+                "Comedy",
+                "Action",
+                "Fantasy"
+            ]
+        },
+        {
+            "id" : 14,
+            "title" : "The Pope's Exorcist",
+            "overview" : "Father Gabriele Amorth, Chief Exorcist of the Vatican, investigates a young boy's terrifying possession and ends up uncovering a centuries-old conspiracy the Vatican has desperately tried to keep hidden.",
+            "voteAverage" : 7.3,
+            "genres": [
+                "Horror",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 15,
+            "title" : "Ghosted",
+            "overview" : "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+            "voteAverage" : 7.1,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Romance"
+            ]
+        },
+        {
+            "id" : 16,
+            "title" : "Creed III",
+            "overview" : "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian — a fighter who has nothing to lose.",
+            "voteAverage" : 7.3,
+            "genres": [
+                "Drama",
+                "Action"
+            ]
+        },
+        {
+            "id" : 17,
+            "title" : "AKA",
+            "overview" : "A steely special ops agent finds his morality put to the test when he infiltrates a crime syndicate and unexpectedly bonds with the boss' young son.",
+            "voteAverage" : 7.0,
+            "genres": [
+                "Thriller",
+                "Action",
+                "Crime"
+            ]
+        },
+        {
+            "id" : 18,
+            "title" : "Dead Shot",
+            "overview" : "In the 1970s, a member of the IRA takes over an Active Service Unit in London after his wife is accidentally shot dead in Ireland. The unit's mission is to cause chaos and destruction, while his personal aim is to hunt down his wife’s killer — an SAS captain, who is also hunting him.",
+            "voteAverage" : 7.0,
+            "genres": [
+                "Action",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 19,
+            "title" : "Renfield",
+            "overview" : "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "voteAverage" : 7.0,
+            "genres": [
+                "Horror",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "id" : 20,
+            "title" : "Scream VI",
+            "overview" : "Following the latest Ghostface killings, the four survivors leave Woodsboro behind and start a fresh chapter.",
+            "voteAverage" : 7.3,
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Thriller"
+            ]
+        }
+    ]
+}

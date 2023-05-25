@@ -1,0 +1,219 @@
+{
+    "results": [
+        {
+            "id" : 2,
+            "title" : "Fast X",
+            "overview" : "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+            "voteAverage" : 6.9,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 3,
+            "title" : "Sisu",
+            "overview" : "Deep in the wilderness of Lapland, Aatami Korpi is searching for gold but after he stumbles upon Nazi patrol, a breathtaking and gold-hungry chase through the destroyed and mined Lapland wilderness begins.",
+            "voteAverage" : 7.5,
+            "genres": [
+                "Action",
+                "War"
+            ]
+        },
+        {
+            "id" : 6,
+            "title" : "Evil Dead Rise",
+            "overview" : "Three siblings find an ancient vinyl that gives birth to bloodthirsty demons that run amok in a Los Angeles apartment building and thrusts them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+            "voteAverage" : 7.1,
+            "genres": [
+                "Thriller",
+                "Horror"
+            ]
+        },
+        {
+            "id" : 9,
+            "title" : "Guy Ritchie's The Covenant",
+            "overview" : "During the war in Afghanistan, a local interpreter risks his own life to carry an injured sergeant across miles of grueling terrain.",
+            "voteAverage" : 7.6,
+            "genres": [
+                "War",
+                "Action",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 11,
+            "title" : "Guardians of the Galaxy Vol. 3",
+            "overview" : "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "voteAverage" : 8.1,
+            "genres": [
+                "Science",
+                "Fiction",
+                "Adventure",
+                "Action"
+            ]
+        },
+        {
+            "id" : 19,
+            "title" : "Renfield",
+            "overview" : "Having grown sick and tired of his centuries as Dracula's lackey, Renfield finds a new lease on life — and maybe even redemption — when he falls for feisty, perennially angry traffic cop Rebecca Quincy.",
+            "voteAverage" : 7.0,
+            "genres": [
+                "Horror",
+                "Comedy",
+                "Fantasy"
+            ]
+        },
+        {
+            "id" : 21,
+            "title" : "The Little Mermaid",
+            "overview" : "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+            "voteAverage" : 5.6,
+            "genres": [
+                "Adventure",
+                "Family",
+                "Fantasy",
+                "Romance"
+            ]
+        },
+        {
+            "id" : 22,
+            "title" : "Knights of the Zodiac",
+            "overview" : "When a headstrong street orphan, Seiya, in search of his abducted sister unwittingly taps into hidden powers, he discovers he might be the only person alive who can protect a reincarnated goddess, sent to watch over humanity. Can he let his past go and embrace his destiny to become a Knight of the Zodiac?",
+            "voteAverage" : 6.3,
+            "genres": [
+                "Fantasy",
+                "Action",
+                "Adventure"
+            ]
+        },
+        {
+            "id" : 23,
+            "title" : "Polite Society",
+            "overview" : "Martial artist-in-training Ria Khan believes she must save her older sister Lena from her impending marriage. After enlisting the help of her friends, Ria attempts to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.",
+            "voteAverage" : 7.0,
+            "genres": [
+                "Action",
+                "Adventure",
+                "Comedy"
+            ]
+        },
+        {
+            "id" : 24,
+            "title" : "To Catch a Killer",
+            "overview" : "Baltimore. New Year's Eve. A talented but troubled police officer is recruited by the FBI's chief investigator to help profile and track down a mass murderer.",
+            "voteAverage" : 7.0,
+            "genres": [
+                "Action",
+                "Crime",
+                "Thriller",
+                "Mystery"
+            ]
+        },
+        {
+            "id" : 25,
+            "title" : "Big George Foreman",
+            "overview" : "Fueled by an impoverished childhood, George Foreman channeled his anger into becoming an Olympic Gold medalist and World Heavyweight Champion, followed by a near-death experience that took him from the boxing ring to the pulpit. But when he sees his community struggling spiritually and financially, Foreman returns to the ring and makes history by reclaiming his title, becoming the oldest and most improbable World Heavyweight Boxing Champion ever.",
+            "voteAverage" : 7.7,
+            "genres": [
+                "History",
+                "Drama"
+            ]
+        },
+        {
+            "id" : 26,
+            "title" : "Love Again",
+            "overview" : "Mira Ray, dealing with the loss of her fiancé, sends a series of romantic texts to his old cell phone number… not realizing the number was reassigned to Rob Burns' new work phone. A journalist, Rob is captivated by the honesty in the beautifully confessional texts. When he’s assigned to write a profile of megastar Céline Dion, he enlists her help in figuring out how to meet Mira in person and win her heart.",
+            "voteAverage" : 6.1,
+            "genres": [
+                "Romance",
+                "Drama",
+                "Comedy"
+            ]
+        },
+        {
+            "id" : 27,
+            "title" : "Robots",
+            "overview" : "A womanizer and a gold digger trick people into relationships with illegal robot doubles. When they unwittingly use this scam on each other, their robot doubles fall in love and elope, forcing the duo to team up to hunt them down before the authorities discover their secret.",
+            "voteAverage" : 6.4,
+            "genres": [
+                "Romance",
+                "Science",
+                "Fiction",
+                "Fantasy",
+                "Comedy"
+            ]
+        },
+        {
+            "id" : 28,
+            "title" : "Kandahar",
+            "overview" : "After his mission is exposed, an undercover CIA operative stuck deep in hostile territory in Afghanistan must fight his way out, alongside his Afghan translator, to an extraction point in Kandahar, all whilst avoiding elite enemy forces and foreign spies tasked with hunting them down.",
+            "voteAverage" : 6.0,
+            "genres": [
+                "Action",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 29,
+            "title" : "About My Father",
+            "overview" : "Encouraged by his fiancée, Sebastian brings his immigrant, hairdresser father, Salvo, to a weekend get-together with Ellie's super-rich and exceedingly eccentric family.",
+            "voteAverage" : 1.0,
+            "genres": [
+                "Comedy"
+            ]
+        },
+        {
+            "id" : 30,
+            "title" : "Beau Is Afraid",
+            "overview" : "A paranoid man embarks on an epic odyssey to get home to his mother.",
+            "voteAverage" : 7.2,
+            "genres": [
+                "Comedy",
+                "Adventure",
+                "Fantasy"
+            ]
+        },
+        {
+            "id" : 31,
+            "title" : "Champions",
+            "overview" : "A stubborn and hotheaded minor league basketball coach is forced to train a Special Olympics team when he is sentenced to community service.",
+            "voteAverage" : 6.9,
+            "genres": [
+                "Comedy"
+            ]
+        },
+        {
+            "id" : 32,
+            "title" : "The Black Demon",
+            "overview" : "Oilman Paul Sturges' idyllic family vacation turns into a nightmare when they encounter a ferocious megalodon shark that will stop at nothing to protect its territory. Stranded and under constant attack, Paul and his family must somehow find a way to get his family back to shore alive before it strikes again in this epic battle between humans and nature.",
+            "voteAverage" : 4.9,
+            "genres": [
+                "Horror",
+                "Thriller"
+            ]
+        },
+        {
+            "id" : 33,
+            "title" : "Mafia Mamma",
+            "overview" : "A suburban American woman inherits her grandfather’s Mafia empire and, guided by the Firm’s trusted consigliere, defies everyone’s expectations, including her own, as the new head of the family business.",
+            "voteAverage" : 7.1,
+            "genres": [
+                "Crime",
+                "Comedy"
+            ]
+        },
+        {
+            "id" : 34,
+            "title" : "The Machine",
+            "overview" : "Bert Kreischer faces a familial crisis and the arrival of his estranged father when the ghost of his booze-soaked past arrives: a murderous mobster hellbent on kidnapping Bert back to the motherland to atone for his crimes. Together, he and his father must retrace the steps of his younger self in the midst of a war between a sociopathic crime family while they attempt to find common ground.",
+            "voteAverage" : 2.0,
+            "genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ]
+        }
+    ]
+}
